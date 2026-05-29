@@ -275,4 +275,3 @@ For major changes, please open an issue first to discuss improvements.
 # License
 
 MIT License
->>>>>>> 485ae4f (Updated README.md)
